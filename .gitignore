@@ -58,3 +58,9 @@ images/*.jpg
 .env
 .env.local
 *.local
+
+# 公众号文章（本地保存，不开源）
+article*.md
+images-*.md
+images-backup/
+
